@@ -16,7 +16,6 @@
 - **Authentication:** JWT (Access Token + Refresh Token)
 - **Cache:** Redis (Docker 컨테이너 기반, 데이터 조회 성능 최적화)
 - → 현재 Docker와 Redis 입문 단계 학습 중  
-- **Infra:** AWS (예정)  
 - **Build:** Gradle  
 
 ---
