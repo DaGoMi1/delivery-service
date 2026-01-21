@@ -1,7 +1,6 @@
-# 🚀 Delivery-App
+# 🚀 Delivery Service
 
-**Delivery-App**은 배달/픽업 주문을 처리하는 웹 애플리케이션입니다. JWT 인증을 통한 로그인 및 주문 관리 기능을 제공합니다.\
-(개발 진행 중으로 내용은 언제든 업데이트 될 수 있습니다.)
+**Delivery Service**는 배달/픽업 주문을 처리하는 웹 애플리케이션입니다. JWT 인증을 통한 로그인 및 주문 관리 기능을 제공합니다.\
 
 ---
 
@@ -50,7 +49,6 @@ ERD 변경 과정\
 
 ## 📑 API 명세
 
-- API 문서: (추후 추가 예정)
 - Postman Collection: [Postman](https://www.postman.com/flight-pilot-69639445/workspace/delivery-test/collection/33603196-30098c20-c4ae-4137-b2ab-eaa5ed66cc45?action=share&creator=33603196)
 
 ---
