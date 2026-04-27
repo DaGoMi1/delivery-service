@@ -48,7 +48,10 @@ ERD 변경 과정\
 
 ## 📑 API 명세
 
-- Postman Collection: [Postman](https://www.postman.com/flight-pilot-69639445/workspace/delivery-test/collection/33603196-30098c20-c4ae-4137-b2ab-eaa5ed66cc45?action=share&creator=33603196)
+본 프로젝트의 모든 API 명세는 Postman을 통해 관리하고 있습니다. 아래 파일을 다운로드하여 Postman에서 **Import** 하시면 상세한 요청/응답 구조를 확인하실 수 있습니다.
+
+- **API 명세서 파일:** [delivery_service_api.json](./delivery_service_api.json) 
+  *(※ 파일 클릭 후 상단 'Download raw file' 버튼을 눌러 내려받으세요.)*
 
 ---
 
